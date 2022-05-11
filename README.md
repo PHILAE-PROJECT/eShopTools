@@ -23,7 +23,9 @@ has the suffix `.AgilkiaTraces.json` .
 
 Example:
 
-`OpenCartAction2Agilkia.py traces\20210315_OpenCartAction.txt`
+```
+OpenCartAction2Agilkia.py traces\20210315_OpenCartAction.txt
+```
 
  generates file `traces\20210315_OpenCartAction.AgilkiaTraces.json` which stores 228 events stored in 13 traces.
 
